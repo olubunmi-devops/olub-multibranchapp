@@ -1,2 +1,1 @@
-# olub-multibranchapp
-To analyse multibranch jenkins pipeline
+# olu-test-parallel
